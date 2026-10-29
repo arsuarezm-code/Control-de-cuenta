@@ -1,0 +1,11 @@
+{
+  "actualizado": "2026-10-29",
+  "precios": {
+    "FR0000989626": { "nav": 44699.21, "date": "2026-10-28", "fuente": "inicial" },
+    "IE00B1G3DH73": { "nav": 52.87, "date": "2026-10-27", "fuente": "inicial" },
+    "IE0031786696": { "nav": 299.2631, "date": "2026-10-27", "fuente": "inicial" },
+    "LU2145461757": { "nav": 89.57, "date": "2026-10-27", "fuente": "inicial" },
+    "N5394": { "nav": 22.2, "date": "2026-10-27", "fuente": "inicial" }
+  },
+  "errores": []
+}

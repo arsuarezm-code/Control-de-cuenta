@@ -1,0 +1,16 @@
+{
+  "fondos": [
+    { "isin": "FR0000989626", "nombre": "Groupama Trésorerie IC" },
+    { "isin": "IE00B1G3DH73", "nombre": "Vanguard US 500 Stock Index Inst EUR Hgd" },
+    { "isin": "IE0031786696", "nombre": "Vanguard Emerging Markets Stock Index EUR Acc" },
+    { "isin": "LU2145461757", "nombre": "Robeco Smart Energy D EUR" },
+    {
+      "isin": "N5394",
+      "nombre": "MyInvestor Indexado S&P 500 PP",
+      "urls": [
+        "https://comparadorfondos.com/plans/N5394-plan-de-pensiones-myinvestor-indexado-s-and-p-500",
+        "https://www.finect.com/planes-pensiones/N5394-Myinvestor_indexado_sp_500_pp"
+      ]
+    }
+  ]
+}
